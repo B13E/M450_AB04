@@ -1,3 +1,3 @@
-echo "In der README-Dateien können Installationsanweisungen oder wichtige Informationen aufgeschrieben werden."
+echo "In der README-Datei können Installationsanweisungen oder wichtige Informationen aufgeschrieben werden."
 
-echo "Neuer branch Namens dev erstellt."
+echo "Test Test Test"
