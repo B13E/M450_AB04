@@ -1,3 +1,3 @@
-echo "In der README-Dateien können Installationsanweisungen oder wichtige Informationen aufgeschrieben werden."
+echo "Test 1 master"
 
-echo "Test Test Test"
+echo "Test 2 master"
